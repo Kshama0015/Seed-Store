@@ -78,7 +78,7 @@ html {
     position: absolute;
     top: 0px;
     left: 0px;
-    background: url(../img/background\ image\ seed\ store\ final.jpg) no-repeat center center/cover;
+    background: url(../background\ image\ seed\ store\ final.jpg) no-repeat center center/cover;
     height: 300px;
     width: 100%;
     z-index: -1;
@@ -140,7 +140,7 @@ html {
 #aboutUs-container {
     margin: 24px;
     padding: 20px;
-    background: url(../img/aboutUs\ background.jpg) no-repeat center center/cover;
+    background: url(../aboutUs\ background.jpg) no-repeat center center/cover;
     z-index: -1;
     opacity: 0.8;
 }
@@ -165,7 +165,7 @@ html {
     height: 100%;
     z-index: -1;
     opacity: 0.4;
-    background: url(../img/contact\ us\ background\ final.jpg) no-repeat center center/cover;
+    background: url(../contact\ us\ background\ final.jpg) no-repeat center center/cover;
 }
 
 #contact-box {
